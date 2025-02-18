@@ -6,6 +6,10 @@ SwiftCart is an e-commerce platform aiming to enhance user experience and increa
 
 The company implemented a new, streamlined checkout process for a subset of users (Test Group) while keeping the existing checkout for the Control Group. The goal was to determine if the new process led to a higher conversion rate by reducing friction in completing purchases.
 
+Below is the overview page from the power bi dashboard
+![overview](https://github.com/user-attachments/assets/a6a4350c-79a7-43bb-bb65-f0bd24eddb41)
+
+
 ## Insights & Recommendations
 
 Insights and recommendations are structured around the following key areas:
@@ -37,13 +41,9 @@ reach: Total reach or number of unique users exposed to the campaign
 website_clicks: Number of clicks on the website from the campaign																							
 
 searches: Number of searches initiated from the campaign																							
-11
 add_to_cart: Number of times content was viewed during the campaign																							
-
 purchases: Number of users who added items to their cart during the campaign																							
-
 conversion_rate: Number of purchases completed during the campaign																							
-		
 cost_per_conversion: Cost per conversion calculated from total spend divided by purcha
 
 ### Key Metrics & Findings
@@ -78,14 +78,9 @@ The new checkout process significantly increased conversions, with a 12.81% upli
 
 ### Next Steps:
 
-  **Further A/B Tests:** Explore additional user-centric optimizations, such as:
-        One-click checkout: Test if simplifying the process further boosts conversions.
+  **Further A/B Tests:** Explore additional user-centric optimizations, such as One-click checkout to  test if simplifying the process further boosts conversions and User Segmentation to test different checkout processes for distinct user segments for example first-time visitors vs. returning users.
         
-        Payment method improvements: Evaluate the impact of offering alternative payment options (e.g., mobile payments, cryptocurrency).
-        
-        User Segmentation: Test different checkout processes for distinct user segments (e.g., first-time visitors vs. returning users).
-        
-**Cost-Benefit Analysis:** Conduct a detailed financial analysis to ensure the long-term profitability of the new checkout process. Assess the development and implementation costs against the projected revenue increase from higher conversions.
+**Cost-Benefit Analysis:** Conduct a detailed financial analysis to ensure the long-term profitability of the new checkout process and assess the development and implementation costs against the projected revenue increase from higher conversions.
 Factor in scalability considerations to ensure that future enhancements are cost-effective and sustainable as the user base grows.
 
 **Full Rollout of New Checkout Process:** Deploy the new checkout system to all users on the platform. Ensure the rollout is phased to monitor its impact closely.
