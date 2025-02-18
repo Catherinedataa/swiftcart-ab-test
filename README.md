@@ -7,7 +7,9 @@ SwiftCart is an e-commerce platform aiming to enhance user experience and increa
 The company implemented a new, streamlined checkout process for a subset of users (Test Group) while keeping the existing checkout for the Control Group. The goal was to determine if the new process led to a higher conversion rate by reducing friction in completing purchases.
 
 Below is the overview page from the power bi dashboard
-![overview](https://github.com/user-attachments/assets/a6a4350c-79a7-43bb-bb65-f0bd24eddb41)
+
+![overview](https://github.com/user-attachments/assets/d431d408-5eeb-4463-8b72-b1ffad4a4da4)
+
 
 
 ## Insights & Recommendations
